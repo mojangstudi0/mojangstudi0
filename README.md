@@ -1,5 +1,5 @@
 
-![Uploading husky.png…]()
+
 
 
 <!---
